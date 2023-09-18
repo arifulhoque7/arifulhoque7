@@ -17,6 +17,9 @@ Here's how my tech stack has evolved over the years:
 - 2022: Explored machine learning and AI.
 - 2022: Dabbled in full-stack development.
 - 2023: Became obsessed with DevOps.
+## My Most Used Languages 🚀
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifulhoque7&layout=compact&theme=radical)
 
 ## Code Art Gallery 🎨
 
