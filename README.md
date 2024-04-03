@@ -20,7 +20,6 @@ Here's how my tech stack has evolved over the years:
 ## My Most Used Languages 🚀
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifulhoque7&layout=compact&theme=radical)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifulhoque7&show_icons=true&locale=en" alt="arifulhoque" /></p>
 
 ## Code Art Gallery 🎨
 
