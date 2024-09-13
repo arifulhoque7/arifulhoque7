@@ -5,7 +5,9 @@ I'm Ariful Hoque, a passionate Full Stack Developer on a journey to create digit
 ## Coding Timeline 📅
 
 - 🌱 Started coding at age 18.
+- 💼 Joined Nextbit Studio in 2024.
 - 💼 Joined BDtask in 2022.
+- 💼 Joined App Atlantis Corp. in 2021.
 - 🎓 Graduated from BRAC university in 2021.
 
 ## Tech Stack Evolution 🛠️
