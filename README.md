@@ -9,6 +9,7 @@ I'm **Ariful Hoque**, a passionate **Full Stack Developer** on a mission to craf
 Here's a quick snapshot of my coding adventure so far:
 
 - 🌱 **Started coding at age 18.**
+- 💼 **Joined TubeOnAi in 2025.**
 - 💼 **Joined Nextbit Studio in 2024.**
 - 💼 **Worked at BDtask in 2022.**
 - 💼 **Joined App Atlantis Corp. in 2021.**
