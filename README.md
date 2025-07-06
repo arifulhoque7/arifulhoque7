@@ -1,65 +1,55 @@
-# Hi there! 👋
+# 👋 Hi, I’m **Ariful Hoque**
 
-I'm **Ariful Hoque**, a passionate **Full Stack Developer** on a mission to craft digital magic and build impactful solutions. 🚀 Let's turn ideas into reality, one line of code at a time!
-
----
-
-## 🚀 Coding Journey
-
-Here's a quick snapshot of my coding adventure so far:
-
-- 🌱 **Started coding at age 18.**
-- 💼 **Joined TubeOnAi in 2025.**
-- 💼 **Joined Nextbit Studio in 2024.**
-- 💼 **Worked at BDtask in 2022.**
-- 💼 **Joined App Atlantis Corp. in 2021.**
-- 🎓 **Graduated from BRAC University in 2021.**
-- 📚 **Started MSc in Computer Science in 2023.**
+A **Full Stack Developer** with 4+ years of hands-on experience building scalable, secure, and user-friendly web applications. I’m passionate about solving real-world problems through clean code, modern frameworks, and a growth mindset.
 
 ---
 
-## 🛠️ Tech Stack Evolution
+## 🚀 My Developer Journey
 
-The tools and technologies that shape my development journey:
-
-| Year     | Tech Stack             |
-| -------- | ---------------------- |
-| **2020** | HTML, CSS, JavaScript  |
-| **2019** | Python                 |
-| **2022** | Machine Learning, AI   |
-| **2022** | Full-Stack Development |
-| **2023** | DevOps                 |
+* 👨‍💻 Started coding at 18, driven by curiosity and creativity.
+* 🎓 Graduated from **BRAC University** in 2021 (BSc in Computer Science).
+* 📚 Pursuing **MSc in Computer Science** (since 2023).
+* 🏢 Worked at leading tech companies including **weDevs**, **TubeOnAI**, **Nextbit**, and **BDtask**.
+* 🔧 From startups to large-scale products — I’ve built, optimized, and shipped code that matters.
 
 ---
 
-## 🌟 My Most Used Languages
+## 💼 What I Do Best
 
-Check out the technologies I work with the most:
-<br/>
-<br/>
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-<img src="https://img.shields.io/badge/Botstrap-282C34?logo=bootstrap&logoColor=6F0FF4" alt="bootstrap logo" title="Bootstrap" height="25" />
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-<img src="https://img.shields.io/badge/Jquery-282C34?logo=jquery&logoColor=11548A" alt="Jquery logo" title="Jquery" height="25" />
-<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=61DAFB" alt="Vue.js logo" title="Vue.js" height="25" />
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=5F649F" alt="PHP logo" title="PHP" height="25" />
-<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=C43129" alt="Laravel logo" title="Laravel" height="25" />
-<img src="https://img.shields.io/badge/Laravel-livewire-282C34?logo=laravel-livewire&logoColor=764ABC" alt="Laravel-livewire logo" title="Laravel-livewire" height="25" />
-<img src="https://img.shields.io/badge/VS Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
-<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
-<img src="https://img.shields.io/badge/MYSQL-282C34?logo=mysql&logoColor=FFBA66" alt="MYSQL logo" title="MYSQL" height="25" />
-<img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=1887CD" alt="SQLite logo" title="SQLite" height="25" />
-<img src="https://img.shields.io/badge/Twilio-282C34?logo=twilio&logoColor=E52C42" alt="Twilio logo" title="Twilio" height="25" />
-
+* 🔄 Refactor & modernize legacy systems
+* ⚙️ Design and develop RESTful APIs & backend logic
+* 🧩 Integrate 3rd-party tools (Payment, Notification, AI, etc.)
+* 🖼️ Craft responsive frontends with Vue.js, Tailwind CSS, and React
+* 🚀 Work with Laravel, Livewire, Next.js, and DevOps tools like Docker & Nginx
+* 🧠 Solve complex bugs, improve performance, and deliver clean solutions
 
 ---
 
-## 📫 Let's Connect!
+## 🛠️ Core Tech Stack
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/arifulh/)
-- 📧 **Email:** [hoquea57@gmail.com](mailto\:hoquea57@gmail.com)
+| Area          | Tools & Frameworks                                                |
+| ------------- | ----------------------------------------------------------------- |
+| Frontend      | HTML, CSS, JavaScript, Vue.js, React, Tailwind, Bootstrap, jQuery |
+| Backend       | PHP, Laravel, Livewire, REST APIs                                 |
+| Database      | MySQL, MongoDB, SQLite                                            |
+| Dev Tools     | Git, Docker, Nginx, VS Code                                       |
+| Integrations  | Twilio, PayPal, bKash, Email/SMS Gateways, AI APIs                |
+| Cloud & Infra | Firebase, DigitalOcean, GitHub Actions (basic CI/CD)              |
 
-Happy coding! 💻 Let's build something amazing together. 😊
+---
+
+## 🌐 Work Highlights
+
+* 🔧 **weDevs**: Refactored & improved core features in **WP User Frontend Pro**, boosted performance & user experience.
+* 🤖 **TubeOnAI**: Delivered key features in an AI-powered platform; ensured seamless API integration with Laravel & Next.js.
+* ⚙️ **Nextbit**: Built scalable backend systems, managed DevOps tasks & modern frontend workflows.
+* 🧰 **BDtask & others**: Gained deep PHP/Laravel experience and collaborated with cross-functional teams in product development.
+
+---
+
+## 📫 Let’s Connect
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/arifulh/)
+* 📧 **Email:** [hoquea57@gmail.com](mailto:hoquea57@gmail.com)
+
+Let’s build the future together — one line of code at a time. 🚀
