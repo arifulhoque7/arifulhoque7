@@ -1,55 +1,66 @@
-# 👋 Hi, I’m **Ariful Hoque**
+# 👋 Hi, I'm **Ariful Hoque**
 
-A **Full Stack Developer** with 4+ years of hands-on experience building scalable, secure, and user-friendly web applications. I’m passionate about solving real-world problems through clean code, modern frameworks, and a growth mindset.
+**Senior Full Stack Engineer** with **5+ years** of experience building and scaling SaaS platforms, ERP systems, and AI-integrated products. I don't just write code — I own systems, make architecture decisions, and ship things that run in production for tens of thousands of users.
 
----
-
-## 🚀 My Developer Journey
-
-* 👨‍💻 Started coding at 18, driven by curiosity and creativity.
-* 🎓 Graduated from **BRAC University** in 2021 (BSc in Computer Science).
-* 📚 Pursuing **MSc in Computer Science** (since 2023).
-* 🏢 Worked at leading tech companies including **weDevs**, **TubeOnAI**, **Nextbit**, and **BDtask**.
-* 🔧 From startups to large-scale products — I’ve built, optimized, and shipped code that matters.
+🔭 Currently building AI-powered features at **weDevs**
+🎓 Pursuing **MSc in CSE at BUET**
+💬 Backend architecture · System design · AI/LLM integration
 
 ---
 
-## 💼 What I Do Best
+## 🚀 What I Bring to the Table
 
-* 🔄 Refactor & modernize legacy systems
-* ⚙️ Design and develop RESTful APIs & backend logic
-* 🧩 Integrate 3rd-party tools (Payment, Notification, AI, etc.)
-* 🖼️ Craft responsive frontends with Vue.js, Tailwind CSS, and React
-* 🚀 Work with Laravel, Livewire, Next.js, and DevOps tools like Docker & Nginx
-* 🧠 Solve complex bugs, improve performance, and deliver clean solutions
+- ⚙️ **Backend architecture** — I design scalable systems that hold up under real load, not just demos
+- 🤖 **AI integration in production** — LLM-powered features, automation, smart suggestions (real users, not experiments)
+- 🔥 **Performance engineering** — cut API response times by **20–40%** through backend redesign and query optimization
+- 🧩 **Full ownership** — built a complete SaaS platform from scratch: DB design → APIs → deployment
+- 🛠️ **Third-party integrations** — payments (bKash, Nagad, SSLCommerz, PayPal), notifications, AI APIs
 
 ---
 
-## 🛠️ Core Tech Stack
+## 💼 Work Highlights
 
-| Area          | Tools & Frameworks                                                |
+**🏢 weDevs** — *Software Engineer*
+Building AI-driven features (content assistance, workflow automation, smart suggestions) for large-scale WordPress products including **WP User Frontend Pro**, **WP Project Manager**, and **WP ERP** — serving **10,000+ active customers**. Optimized core features and accelerated release cycles by 10–20%.
+
+**🤖 TubeOnAI** — *Senior Full Stack Engineer*
+Redesigned backend architecture and REST APIs, reducing average response time by **20–40%**. Contributed to AI-driven video content analysis and recommendation features.
+
+**⚙️ Nextbit Studio** — *Senior Full Stack Engineer*
+Built **WCStudio** — a complete SaaS platform — from scratch. Owned everything: scalable backend, REST APIs, snapshot management, and server provisioning (similar to FlyWP / XCloud).
+
+**🧰 BDtask** — *PHP Developer*
+Built enterprise ERP systems (Production, CRM), multi-branch POS, and Hotel Management platforms with real-time integrations and centralized multi-branch APIs.
+
+---
+
+## 🛠️ Tech Stack
+
+| Area | Tools & Frameworks |
 | ------------- | ----------------------------------------------------------------- |
-| Frontend      | HTML, CSS, JavaScript, Vue.js, React, Tailwind, Bootstrap, jQuery |
-| Backend       | PHP, Laravel, Livewire, REST APIs                                 |
-| Database      | MySQL, MongoDB, SQLite                                            |
-| Dev Tools     | Git, Docker, Nginx, VS Code                                       |
-| Integrations  | Twilio, PayPal, bKash, Email/SMS Gateways, AI APIs                |
-| Cloud & Infra | Firebase, DigitalOcean, GitHub Actions (basic CI/CD)              |
+| **Backend** | PHP, Laravel, Node.js, REST API Design, Livewire |
+| **Frontend** | React, Next.js, Vue.js, Tailwind CSS, JavaScript (ES6+) |
+| **Database** | MySQL, PostgreSQL, MongoDB, Redis |
+| **AI & Integrations** | OpenAI, Claude, LLM APIs, bKash, Nagad, SSLCommerz, Twilio |
+| **DevOps & Infra** | Docker, Nginx, DigitalOcean, GitHub Actions, CI/CD |
+| **Tools** | Git, VS Code, Cursor, GitHub Copilot |
 
 ---
 
-## 🌐 Work Highlights
+## 📊 GitHub Stats
 
-* 🔧 **weDevs**: Refactored & improved core features in **WP User Frontend Pro**, boosted performance & user experience.
-* 🤖 **TubeOnAI**: Delivered key features in an AI-powered platform; ensured seamless API integration with Laravel & Next.js.
-* ⚙️ **Nextbit**: Built scalable backend systems, managed DevOps tasks & modern frontend workflows.
-* 🧰 **BDtask & others**: Gained deep PHP/Laravel experience and collaborated with cross-functional teams in product development.
+![Ariful's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifulhoque7&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifulhoque7&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
-* 🔗 [LinkedIn](https://www.linkedin.com/in/arifulh/)
-* 📧 **Email:** [hoquea57@gmail.com](mailto:hoquea57@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/arifulh](https://www.linkedin.com/in/arifulh/)
+- 📧 **Email:** [hoquea57@gmail.com](mailto:hoquea57@gmail.com)
+- 🌐 **GitHub:** [github.com/arifulhoque7](https://github.com/arifulhoque7)
 
-Let’s build the future together — one line of code at a time. 🚀
+---
+
+> If you need someone who thinks in systems, ships fast, and takes full ownership — let's talk. 🚀
