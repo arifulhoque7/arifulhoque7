@@ -23,7 +23,7 @@
 ## 💼 Work Highlights
 
 **🏢 weDevs** · *Software Engineer II*
-Own the AI layer across a WordPress product line with **35,000+ active installs** and **10,000+ paying customers**: the AI Form Builder in **WP User Frontend**, AI generators in **WP Project Manager**, AI summaries and vision-model image analysis in **weDocs**, and the React CV-analysis interface in **WP ERP**. Rebuilt WP ERP's HRM admin from Vue to React on a new `erp/v2` REST API, shipped in **WP ERP 2.0.0**. Built **FlyHR** end to end, took it solo through the WordPress.org review to publication, and shipped **FlyHR 1.0.0** (free + Pro).
+Own the AI layer across a WordPress product line with **34,000+ active installs** and **10,000+ paying customers**: the AI Form Builder in **WP User Frontend**, AI generators in **WP Project Manager**, AI summaries and vision-model image analysis in **weDocs**, and the React CV-analysis interface in **WP ERP**. Rebuilt WP ERP's HRM admin from Vue to React on a new `erp/v2` REST API, shipped in **WP ERP 2.0.0**. Built **FlyHR** end to end, took it solo through the WordPress.org review to publication, and shipped **FlyHR 1.0.0** (free + Pro).
 
 **🧪 SaaS from scratch** · *Laravel + Inertia/React*
 **FlyForms** (workspace tenancy, plan entitlements with usage metering, conditional-logic engine, response analytics, embeds) and **Sellbuddy** (multi-tenant subdomain storefronts, theme editor, per-shop RTL localization, Forge deploys).
