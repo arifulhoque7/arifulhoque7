@@ -14,7 +14,7 @@
 - 🧠 **RAG from the ground up**: PostgreSQL with pgvector, embedding and vector-search services, IVFFlat cosine indexes, answers generated over retrieved context
 - ⚙️ **Backend architecture**: systems that hold up under real load, and a **10-20%** cut in API response time through backend redesign and query optimization
 - 🎨 **Legacy modernization**: rebuilt a Vue admin in React on a new REST API, and restyled a product line onto a shared design system
-- 🚢 **Release engineering**: 47 tagged releases in 12 months, plus the WordPress.org SVN and GitHub Actions pipelines behind them
+- 🚢 **Release engineering**: cut 69 of the 140 tagged releases across the product line in the last 12 months, plus the WordPress.org SVN and GitHub Actions pipelines behind them
 - 🔒 **Security**: patched SQL injection, broken access control, sensitive-data exposure and shortcode-execution bugs across a plugin suite
 - 🧩 **Full ownership**: shipped complete SaaS platforms from scratch: schema, APIs, frontend, deployment
 
@@ -23,7 +23,7 @@
 ## 💼 Work Highlights
 
 **🏢 weDevs** · *Software Engineer II*
-Own the AI layer across a WordPress product line with **35,000+ active installs** and **10,000+ paying customers**: the AI Form Builder in **WP User Frontend**, AI generators in **WP Project Manager**, AI summaries and vision-model image analysis in **weDocs**, and the React CV-analysis interface in **WP ERP**. Rebuilt WP ERP's HRM admin from Vue to React on a new `erp/v2` REST API. Built **FlyHR** end to end and took it solo through the WordPress.org review to publication.
+Own the AI layer across a WordPress product line with **35,000+ active installs** and **10,000+ paying customers**: the AI Form Builder in **WP User Frontend**, AI generators in **WP Project Manager**, AI summaries and vision-model image analysis in **weDocs**, and the React CV-analysis interface in **WP ERP**. Rebuilt WP ERP's HRM admin from Vue to React on a new `erp/v2` REST API, shipped in **WP ERP 2.0.0**. Built **FlyHR** end to end, took it solo through the WordPress.org review to publication, and shipped **FlyHR 1.0.0** (free + Pro).
 
 **🧪 SaaS from scratch** · *Laravel + Inertia/React*
 **FlyForms** (workspace tenancy, plan entitlements with usage metering, conditional-logic engine, response analytics, embeds) and **Sellbuddy** (multi-tenant subdomain storefronts, theme editor, per-shop RTL localization, Forge deploys).
@@ -60,6 +60,18 @@ Customized and shipped seven white-label enterprise products for overseas client
 [![WP ERP](https://img.shields.io/wordpress/plugin/installs/erp?label=WP%20ERP&style=flat-square)](https://wordpress.org/plugins/erp/)
 [![weDocs](https://img.shields.io/wordpress/plugin/installs/wedocs?label=weDocs&style=flat-square)](https://wordpress.org/plugins/wedocs/)
 [![FlyHR](https://img.shields.io/wordpress/plugin/v/flyhr?label=FlyHR&style=flat-square)](https://wordpress.org/plugins/flyhr/)
+[![FlyCRM](https://img.shields.io/wordpress/plugin/v/flycrm?label=FlyCRM&style=flat-square)](https://wordpress.org/plugins/flycrm/)
+
+### 🏷️ Recent releases
+
+| Release | Date | My part |
+| --- | --- | --- |
+| **FlyHR 1.0.0** + Pro 1.0.0 | Nov 2026 | Built the plugin and cut the release |
+| **WP ERP 2.0.0** + Pro 2.0.0 | Nov 2026 | HRM admin rebuilt in React on the new `erp/v2` REST API |
+| **WP User Frontend 4.3.15** + Pro 4.2.20 | Nov 2026 | Cut the release |
+| **WP Project Manager 4.1.2** + Pro 4.1.2 | Oct 2026 | Cut the release |
+| **weDocs 2.6.1** + Pro 1.4.1 | Oct 2026 | Cut the release |
+| **FlyCRM 1.1.1** + Pro 1.1.1 | Sep 2026 | Cut the release |
 
 ---
 
