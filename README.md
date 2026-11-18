@@ -12,7 +12,7 @@
 
 - 🤖 **AI in production, not demos**: LLM features behind a multi-provider abstraction spanning OpenAI, Anthropic Claude and Google Gemini, shipped to paying customers
 - 🧠 **RAG from the ground up**: PostgreSQL with pgvector, embedding and vector-search services, IVFFlat cosine indexes, answers generated over retrieved context
-- ⚙️ **Backend architecture**: systems that hold up under real load, and a **10-20%** cut in API response time through backend redesign and query optimization
+- ⚙️ **Backend architecture**: systems that hold up under real load, API redesigns and query optimization
 - 🎨 **Legacy modernization**: rebuilt a Vue admin in React on a new REST API, and restyled a product line onto a shared design system
 - 🚢 **Release engineering**: cut 69 of the 140 tagged releases across the product line in the last 12 months, plus the WordPress.org SVN and GitHub Actions pipelines behind them
 - 🔒 **Security**: patched SQL injection, broken access control, sensitive-data exposure and shortcode-execution bugs across a plugin suite
@@ -29,7 +29,7 @@ Own the AI layer across a WordPress product line with **35,000+ active installs*
 **FlyForms** (workspace tenancy, plan entitlements with usage metering, conditional-logic engine, response analytics, embeds) and **Sellbuddy** (multi-tenant subdomain storefronts, theme editor, per-shop RTL localization, Forge deploys).
 
 **🤖 TubeOnAI** · *Senior Full Stack Developer*
-Redesigned backend architecture and REST APIs, cutting average response time by **10-20%**, and shipped a public Developer API. Built the AI content pipeline: detail and tone modes, mind maps, timestamped transcripts, Azure OpenAI alongside bring-your-own-key paths.
+Redesigned backend architecture and REST APIs, rebuilding the user endpoints in a dedicated API-optimization pass, and shipped a public Developer API. Built the AI content pipeline: detail and tone modes, mind maps, timestamped transcripts, Azure OpenAI alongside bring-your-own-key paths.
 
 **⚙️ Nextbit Technologies** · *Software Engineer*
 Built **WCStudio**, a complete SaaS platform for WordPress website building, from scratch in Laravel: snapshot management and server provisioning comparable to FlyWP and XCloud.
